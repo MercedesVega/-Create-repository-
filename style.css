@@ -1,0 +1,64 @@
+
+
+
+html { 
+    background-image: url("http://mercedesvegacreative.com/wp-content/uploads/2018/06/spring-1.png");
+    ;repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    background:palevioletred;
+    padding: 60px 30px;
+    font-family:'Cinzel Decorative', cursive;
+    border: 5px solid black;
+}
+h2{
+text-align:center;
+font-family:'Allan', cursive;
+}
+
+article header{
+background:pink;
+padding: 10x 5px;
+font-family:'Allan', cursive;
+}
+p{
+padding: 10x 5px;
+font-family:'Allan', cursive;
+}
+
+.images-left{
+ float: left;
+}
+.dance {
+background-color: rgb(15, 1, 9);
+color: rgb(240, 238, 238);
+padding-left: 0px
+
+}
+
+.music {
+background-color: rgb(233, 10, 85);
+color: white;
+padding-right: 0px   
+}
+
+.love {
+background-color: rgb(8, 0, 0);
+color: white;
+padding-left: 0px  
+
+}
+.lotus {
+background-color: rgb(233, 10, 85);
+color: white;
+padding-left: 0px 
+align-content: center;
+}
+
+</style>
